@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'SFPro';
-    src: local('SF Pro Text'), url('../fonts/SFUIText-Regular.woff') format('woff');
+    src: local('SF Pro Text'), url('fonts/SFUIText-Regular.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Roboto';
-    src: local('Roboto'), url('../fonts/Roboto-Regular.woff') format('woff');
+    src: local('Roboto'), url('fonts/Roboto-Regular.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Helvetica';
-    src: local('Helvetica'), url('../fonts/HelveticaRegular.woff') format('woff');
+    src: local('Helvetica'), url('fonts/HelveticaRegular.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 }
